@@ -6,8 +6,8 @@
 //
 //
 #import "TestObject.h"
-#import <JPush/JPUSHService.h>
-#import <WechatOpenSDK/WXApi.h>
+#import "JPUSHService.h"
+#import "WXApi.h"
 
 @interface TestObject ()<JPUSHRegisterDelegate>
 
