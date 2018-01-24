@@ -2,7 +2,7 @@ PODS:
   - JCore (1.1.7)
   - JPush (3.0.8):
     - JCore (~> 1.1.7)
-  - TestPod (0.1.0):
+  - TestPod (0.1.4):
     - JPush
     - WechatOpenSDK
   - WechatOpenSDK (1.8.1)
@@ -17,7 +17,7 @@ EXTERNAL SOURCES:
 SPEC CHECKSUMS:
   JCore: f7459c81c135281a874a6beafdd321666adcc834
   JPush: 9574d072cc37e93fa293ba69b43ce763c440943a
-  TestPod: 6be643b70d0f6f2ee1e51c46b7fdeae422641a39
+  TestPod: ecf8ab0edc1d8682db21b1a00583798e86191220
   WechatOpenSDK: 491d965d79335070328571d3e79f714549e79a5e
 
 PODFILE CHECKSUM: 48234e7182ae05502337182a404c026403be8ae5
