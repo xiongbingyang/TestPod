@@ -7,6 +7,7 @@
 //
 
 #import "XXViewController.h"
+#import <TestPod/TestObject.h>
 
 @interface XXViewController ()
 
