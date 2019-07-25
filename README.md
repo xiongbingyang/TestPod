@@ -23,7 +23,5 @@ pod 'TestPod'
 ## Author
 
 acct<blob>=0xE7BE8AE5AD90, 595919268@qq.com
-
+这是一段测试 merge 的文本
 ## License
-
-TestPod is available under the MIT license. See the LICENSE file for more info.
